@@ -6,7 +6,7 @@ just for fun - learning xml
 - Spreadsheets
 - SQL Database
 - R Programming
-- Python Programming'
+- Python Programming
 - Dashboard
 - Stats & ML
 
